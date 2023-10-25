@@ -7,5 +7,5 @@ NumPy: It serves as a resource for linear algebra and numerical operations. NumP
 Seaborn: This library will create visually appealing and informative data visualizations. Seaborn is built on top of Matplotlib and provides a high-level interface for creating stylish plots.
 Matplotlib: It's a fundamental library for data visualization. Matplotlib provides a wide range of tools for creating static, animated, or interactive plots.
 Scikit-Learn (sklearn): This machine-learning library will implement the clustering techniques. It offers a wide range of tools for machine learning, including clustering algorithms.
-The project will involve preprocessing the data and using two clustering techniques: K-Means and Affinity Propagation, both of which will be imported from Scikit-Learn. K-Means is a centroid-based clustering algorithm, while Affinity Propagation is a message-passing algorithm used for clustering.
+The project will involve preprocessing the data and using two clustering techniques: K-Means, will be imported from Scikit-Learn. K-Means is a centroid-based clustering algorithm.
 In summary, the project will use a combination of data manipulation, visualization, and machine learning techniques to segment German bank customers, ultimately aiming to gain insights from the data.
